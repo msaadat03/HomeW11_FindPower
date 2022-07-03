@@ -1,0 +1,14 @@
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\bin\Debug\netcoreapp3.1\HomeW11_FindPower.exe
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\bin\Debug\netcoreapp3.1\HomeW11_FindPower.deps.json
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\bin\Debug\netcoreapp3.1\HomeW11_FindPower.runtimeconfig.json
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\bin\Debug\netcoreapp3.1\HomeW11_FindPower.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\bin\Debug\netcoreapp3.1\HomeW11_FindPower.dll
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\bin\Debug\netcoreapp3.1\HomeW11_FindPower.pdb
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\obj\Debug\netcoreapp3.1\HomeW11_FindPower.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\obj\Debug\netcoreapp3.1\HomeW11_FindPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\obj\Debug\netcoreapp3.1\HomeW11_FindPower.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\obj\Debug\netcoreapp3.1\HomeW11_FindPower.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\obj\Debug\netcoreapp3.1\HomeW11_FindPower.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\obj\Debug\netcoreapp3.1\HomeW11_FindPower.dll
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\obj\Debug\netcoreapp3.1\HomeW11_FindPower.pdb
+C:\Users\OMEN\source\repos\HomeW11_FindPower\HomeW11_FindPower\obj\Debug\netcoreapp3.1\HomeW11_FindPower.genruntimeconfig.cache
